@@ -1,0 +1,21 @@
+.add{
+max-width: 100%;
+position: fixed;
+top: 100px;
+}
+.add img{
+max-width: 100%;
+}
+.add a{
+color: red;
+font-size: 15px;
+text-decoration: none;
+position: absolute;
+top: 5px;
+right: 5px;
+display: none;
+}
+.add:hover a{
+display: block;
+top: 5px;
+}
